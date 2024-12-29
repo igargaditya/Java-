@@ -37,3 +37,6 @@ public class a26_AnonymousInnerClass {
 
 // Overwriting a method without using method overriding technique is known as
 // Anonymous Inner Class
+
+// We can also use abstract classes and use Anonymous inner class method to
+// define them.
